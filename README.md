@@ -1,0 +1,1 @@
+# spire-scalac-crash
